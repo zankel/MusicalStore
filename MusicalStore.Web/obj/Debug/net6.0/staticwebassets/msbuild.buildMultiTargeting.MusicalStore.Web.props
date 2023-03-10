@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MusicalStore.Web.props" />
+</Project>

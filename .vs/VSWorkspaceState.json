@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MusicalStore.ProductAPI",
+    "\\MusicalStore.ProductAPI\\Data\\ValueObjects",
+    "\\MusicalStore.ProductAPI\\Model\\Base",
+    "\\MusicalStore.ProductAPI\\Model\\Context",
+    "\\MusicalStore.ProductAPI\\Repository",
+    "\\MusicalStore.Web",
+    "\\MusicalStore.Web\\Service\\IService"
+  ],
+  "SelectedNode": "\\MusicalStore.sln",
+  "PreviewInSolutionExplorer": false
+}
